@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" id="pee">
 <head>
-<title>Origins06</title>
+<title>uhsythe</title>
 <link rel="stylesheet" type="text/css" href="css/Origins06_normal.css" title="normal"/>
 <link rel="stylesheet" type="text/css" href="css/Origins06_dark.css" title="dark">
 <link rel="stylesheet" type="text/css" href="css/Origins06_classic.css" title="classic">
@@ -78,7 +78,7 @@ $con->close();
 	</div>
 	
 	<div id="Footer">
-	Origins06 does not knowingly host copyrighted content. If you host a server, we store your IP address, but it is not publicly distributed to users on the site.
+	sythe does not knowingly host copyrighted content. If you host a server, we store your IP address, but it is not publicly distributed to users on the site.
 	</div>
 			</div>
 	</body>
